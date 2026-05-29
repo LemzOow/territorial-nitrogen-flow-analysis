@@ -1,0 +1,8 @@
+﻿Farm,Type,Area_ha,Cattle,Nitrogen_Produced,Nitrogen_Needed,Distance_km,Latitude,Longitude
+Farm_A,Livestock,50,80,120,30,5,48.11,-1.67
+Farm_B,Crop,70,0,10,100,12,48.13,-1.60
+Farm_C,Mixed,40,30,60,50,7,48.10,-1.72
+Farm_D,Crop,90,0,15,130,15,48.15,-1.65
+Farm_E,Livestock,60,100,150,40,9,48.08,-1.70
+Farm_F,Crop,10,50,70,10,8,48.20,-1.50
+Farm_G,Crop,90,0,15,130,15,48.18,-1.40
